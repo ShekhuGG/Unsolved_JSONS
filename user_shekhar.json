@@ -79,6 +79,22 @@
         "math"
       ],
       "addedAt": "2025-12-02T10:05:04.962Z"
+    },
+    {
+      "problem": "A. Suspension",
+      "link": "https://codeforces.com/contest/2158/problem/A",
+      "tags": [
+        "math",
+        "greedy",
+        "constructive"
+      ],
+      "rawScraped": [
+        "constructive",
+        "algorithms",
+        "greedy",
+        "math"
+      ],
+      "addedAt": "2025-12-02T10:05:17.061Z"
     }
   ]
 }
