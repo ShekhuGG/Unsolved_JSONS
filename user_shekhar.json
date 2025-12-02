@@ -28,7 +28,8 @@
         "greedy",
         "math"
       ],
-      "addedAt": "2025-12-02T13:53:37.434Z"
+      "addedAt": "2025-12-02T13:53:37.434Z",
+      "note": "this is tricky edge case"
     },
     {
       "problem": "D. Palindrome Flipping",
