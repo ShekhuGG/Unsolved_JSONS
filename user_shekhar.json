@@ -29,7 +29,8 @@
         "math"
       ],
       "addedAt": "2025-12-02T13:53:37.434Z",
-      "note": "this is tricky edge case"
+      "note": "this is tricky edge case",
+      "status": "resolved"
     },
     {
       "problem": "D. Palindrome Flipping",
