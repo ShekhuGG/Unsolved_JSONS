@@ -1,23 +1,5 @@
 {
-  "problems": [
-    {
-      "problem": "B. Split",
-      "link": "https://codeforces.com/contest/2158/problem/B",
-      "tags": [
-        "math",
-        "greedy",
-        "constructive"
-      ],
-      "rawScraped": [
-        "constructive",
-        "algorithms",
-        "greedy",
-        "math"
-      ],
-      "addedAt": "2025-12-02T12:54:31.158Z",
-      "status": "resolved"
-    }
-  ],
+  "problems": [],
   "deleted": [
     {
       "problem": "A. Suspension",
@@ -66,6 +48,23 @@
         "greedy"
       ],
       "addedAt": "2025-12-02T12:54:36.480Z"
+    },
+    {
+      "problem": "B. Split",
+      "link": "https://codeforces.com/contest/2158/problem/B",
+      "tags": [
+        "math",
+        "greedy",
+        "constructive"
+      ],
+      "rawScraped": [
+        "constructive",
+        "algorithms",
+        "greedy",
+        "math"
+      ],
+      "addedAt": "2025-12-02T12:54:31.158Z",
+      "status": "resolved"
     }
   ]
 }
