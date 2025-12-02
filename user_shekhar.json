@@ -31,6 +31,20 @@
         "math"
       ],
       "addedAt": "2025-12-02T12:54:31.158Z"
+    },
+    {
+      "problem": "C. Annoying Game",
+      "link": "https://codeforces.com/contest/2158/problem/C",
+      "tags": [
+        "greedy",
+        "dp"
+      ],
+      "rawScraped": [
+        "dp",
+        "games",
+        "greedy"
+      ],
+      "addedAt": "2025-12-02T12:54:36.480Z"
     }
   ],
   "deleted": [
