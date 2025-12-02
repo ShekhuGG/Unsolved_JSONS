@@ -13,6 +13,22 @@
         "greedy"
       ],
       "addedAt": "2025-12-02T13:53:07.993Z"
+    },
+    {
+      "problem": "B. Split",
+      "link": "https://codeforces.com/contest/2158/problem/B",
+      "tags": [
+        "math",
+        "greedy",
+        "constructive"
+      ],
+      "rawScraped": [
+        "constructive",
+        "algorithms",
+        "greedy",
+        "math"
+      ],
+      "addedAt": "2025-12-02T13:53:37.434Z"
     }
   ],
   "deleted": [
