@@ -29,6 +29,25 @@
         "math"
       ],
       "addedAt": "2025-12-02T13:53:37.434Z"
+    },
+    {
+      "problem": "D. Palindrome Flipping",
+      "link": "https://codeforces.com/contest/2158/problem/D",
+      "tags": [
+        "implementation",
+        "constructive"
+      ],
+      "rawScraped": [
+        "brute",
+        "force",
+        "constructive",
+        "algorithms",
+        "implementation",
+        "shortest",
+        "paths",
+        "strings"
+      ],
+      "addedAt": "2025-12-02T13:53:58.943Z"
     }
   ],
   "deleted": [
