@@ -55,6 +55,26 @@
         "constructive"
       ],
       "addedAt": "2025-12-02T07:57:03.654Z"
+    },
+    {
+      "name": [
+        "constructive",
+        "algorithms",
+        "greedy",
+        "math"
+      ],
+      "raw": [
+        "constructive",
+        "algorithms",
+        "greedy",
+        "math"
+      ],
+      "finalTags": [
+        "math",
+        "greedy",
+        "constructive"
+      ],
+      "addedAt": "2025-12-02T09:11:34.662Z"
     }
   ]
 }
