@@ -32,7 +32,9 @@
       ],
       "rating": 2800,
       "addedAt": "2025-12-03T17:58:04.432Z",
-      "user": "riya"
+      "user": "riya",
+      "status": "resolved"
     }
-  ]
+  ],
+  "deleted": []
 }
