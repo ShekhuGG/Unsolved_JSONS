@@ -40,7 +40,8 @@
         "implementation",
         "*2800"
       ],
-      "addedAt": "2025-12-03T12:33:00.967Z"
+      "addedAt": "2025-12-03T12:33:00.967Z",
+      "note": "looks tough!!!"
     },
     {
       "problem": "F. Rae Taylor and Trees (hard version)",
@@ -63,5 +64,6 @@
       ],
       "addedAt": "2025-12-03T12:33:24.057Z"
     }
-  ]
+  ],
+  "deleted": []
 }
