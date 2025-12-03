@@ -48,6 +48,17 @@
       "rating": null,
       "addedAt": "2025-12-03T13:28:01.944Z",
       "user": "shekhar"
+    },
+    {
+      "problem": "G. Gene Editor",
+      "link": "https://codeforces.com/problemset/problem/2172/G",
+      "tags": [],
+      "rawScraped": [
+        "*3300"
+      ],
+      "rating": 3300,
+      "addedAt": "2025-12-03T16:38:07.942Z",
+      "user": "shekhar"
     }
   ]
 }
