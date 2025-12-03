@@ -17,6 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
+process.env.REACT_APP_GITHUB_TOKEN = "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"
 
 npm-debug.log*
 yarn-debug.log*

@@ -6,8 +6,11 @@ const BRANCH = "main";
 
 // Your personal access token
 let GITHUB_TOKEN = localStorage.getItem("GITHUB_TOKEN");
-
-
+if (GITHUB_TOKEN == "null") {
+    GITHUB_TOKEN = prompt("Kindly Enter The Access Token");
+    localStorage.setItem("GITHUB_TOKEN", GITHUB_TOKEN);
+    console.log("TOKEN : ", GITHUB_TOKEN)
+}
 
 // ----------------------------------------------
 // NEW — Build file path dynamically per user
