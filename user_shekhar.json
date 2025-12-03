@@ -15,7 +15,8 @@
       ],
       "rating": 1500,
       "addedAt": "2025-12-03T13:02:51.906Z",
-      "user": "shekhar"
+      "user": "shekhar",
+      "status": "resolved"
     },
     {
       "problem": "M. Maximum Distance To Port",
@@ -60,5 +61,6 @@
       "addedAt": "2025-12-03T16:38:07.942Z",
       "user": "shekhar"
     }
-  ]
+  ],
+  "deleted": []
 }
