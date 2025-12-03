@@ -35,7 +35,9 @@
       ],
       "rating": 1300,
       "addedAt": "2025-12-03T21:02:47.539Z",
-      "user": "avi"
+      "user": "avi",
+      "status": "resolved"
     }
-  ]
+  ],
+  "deleted": []
 }
