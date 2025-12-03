@@ -6,6 +6,7 @@ const BRANCH = "main";
 
 // Your personal access token
 let GITHUB_TOKEN = localStorage.getItem("GITHUB_TOKEN");
+if(!GITHUB_TOKEN) GITHUB_TOKEN = "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";
 
 
 
