@@ -70,6 +70,19 @@
       "tags": [],
       "rawScraped": [],
       "addedAt": "2025-12-03T11:21:46.784Z"
+    },
+    {
+      "problem": [
+        {
+          "documentId": "21736113D4772FAB54DEEFD93F12ACAE",
+          "frameId": 0,
+          "result": "K. Kindergarten Homework"
+        }
+      ],
+      "link": "https://codeforces.com/problemset/problem/2172/K",
+      "tags": [],
+      "rawScraped": [],
+      "addedAt": "2025-12-03T11:25:01.727Z"
     }
   ],
   "deleted": [
