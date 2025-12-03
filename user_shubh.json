@@ -1,24 +1,6 @@
 {
   "problems": [
     {
-      "problem": "M. Maximum Distance To Port",
-      "link": "https://codeforces.com/problemset/problem/2172/M",
-      "tags": [
-        "graphs",
-        "shortest paths"
-      ],
-      "rawScraped": [
-        "graphs",
-        "shortest paths",
-        "*1300"
-      ],
-      "rating": 1300,
-      "addedAt": "2025-12-03T21:46:00.454Z",
-      "user": "shubh",
-      "status": "resolved",
-      "note": "hogaya fix lodu takla shubham"
-    },
-    {
       "problem": "C. Annoying Game",
       "link": "https://codeforces.com/contest/2158/problem/C",
       "tags": [
@@ -37,5 +19,24 @@
       "status": "resolved"
     }
   ],
-  "deleted": []
+  "deleted": [
+    {
+      "problem": "M. Maximum Distance To Port",
+      "link": "https://codeforces.com/problemset/problem/2172/M",
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ],
+      "rawScraped": [
+        "graphs",
+        "shortest paths",
+        "*1300"
+      ],
+      "rating": 1300,
+      "addedAt": "2025-12-03T21:46:00.454Z",
+      "user": "shubh",
+      "status": "resolved",
+      "note": "hogaya fix lodu takla shubham"
+    }
+  ]
 }
