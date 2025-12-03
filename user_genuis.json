@@ -1,0 +1,20 @@
+{
+  "problems": [
+    {
+      "problem": "K. Kindergarten Homework",
+      "link": "https://codeforces.com/contest/2172/problem/M",
+      "tags": [
+        "implementation",
+        "strings"
+      ],
+      "rawScraped": [
+        "implementation",
+        "strings",
+        "*2100"
+      ],
+      "rating": 2100,
+      "addedAt": "2025-12-03T17:41:34.203Z",
+      "user": "genuis"
+    }
+  ]
+}
