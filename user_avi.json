@@ -1,0 +1,25 @@
+{
+  "problems": [
+    {
+      "problem": "N. New Kingdom",
+      "link": "https://codeforces.com/problemset/problem/2172/N",
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ],
+      "rawScraped": [
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "*2800"
+      ],
+      "rating": 2800,
+      "addedAt": "2025-12-03T18:40:38.608Z",
+      "user": "avi"
+    }
+  ]
+}
