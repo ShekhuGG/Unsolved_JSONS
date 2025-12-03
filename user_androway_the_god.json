@@ -87,6 +87,22 @@
       "rating": 2300,
       "addedAt": "2025-12-03T22:17:48.774Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "D. Divisor Card Game",
+      "link": "https://codeforces.com/contest/2172/problem/B",
+      "tags": [
+        "combinatorics",
+        "dp"
+      ],
+      "rawScraped": [
+        "combinatorics",
+        "dp",
+        "*3100"
+      ],
+      "rating": 3100,
+      "addedAt": "2025-12-03T22:18:42.153Z",
+      "user": "androway_the_god"
     }
   ],
   "deleted": []
