@@ -52,11 +52,6 @@
       "addedAt": "2025-12-02T13:53:58.943Z"
     },
     {
-      "tags": [],
-      "rawScraped": [],
-      "addedAt": "2025-12-03T11:08:20.259Z"
-    },
-    {
       "problem": "L. Maximum Color Segment",
       "link": "https://codeforces.com/problemset/problem/2172/L",
       "tags": [
@@ -169,6 +164,11 @@
         "*2100"
       ],
       "addedAt": "2025-12-03T11:11:44.020Z"
+    },
+    {
+      "tags": [],
+      "rawScraped": [],
+      "addedAt": "2025-12-03T11:08:20.259Z"
     }
   ]
 }
