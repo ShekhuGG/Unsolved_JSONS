@@ -14,7 +14,8 @@
       ],
       "rating": 1300,
       "addedAt": "2025-12-03T21:46:00.454Z",
-      "user": "shubh"
+      "user": "shubh",
+      "status": "resolved"
     },
     {
       "problem": "C. Annoying Game",
@@ -33,5 +34,6 @@
       "addedAt": "2025-12-03T21:48:17.116Z",
       "user": "shubh"
     }
-  ]
+  ],
+  "deleted": []
 }
