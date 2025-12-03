@@ -33,6 +33,24 @@
       "rating": 2000,
       "addedAt": "2025-12-03T22:11:38.169Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "N. New Kingdom",
+      "link": "https://codeforces.com/contest/2172/problem/N",
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "implementation"
+      ],
+      "rawScraped": [
+        "constructive algorithms",
+        "graphs",
+        "implementation",
+        "*2800"
+      ],
+      "rating": 2800,
+      "addedAt": "2025-12-03T22:13:42.216Z",
+      "user": "androway_the_god"
     }
   ],
   "deleted": []
