@@ -119,6 +119,22 @@
       "rating": 3100,
       "addedAt": "2025-12-03T22:19:21.954Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "B. Buses",
+      "link": "https://codeforces.com/contest/2172/problem/B",
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "rawScraped": [
+        "greedy",
+        "sortings",
+        "*1800"
+      ],
+      "rating": 1800,
+      "addedAt": "2025-12-03T22:19:55.629Z",
+      "user": "androway_the_god"
     }
   ],
   "deleted": []
