@@ -19,7 +19,8 @@
       ],
       "rating": 2800,
       "addedAt": "2025-12-03T18:40:38.608Z",
-      "user": "avi"
+      "user": "avi",
+      "status": "resolved"
     },
     {
       "problem": "M. Maximum Distance To Port",
