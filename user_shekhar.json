@@ -23,6 +23,24 @@
         "*1300"
       ],
       "addedAt": "2025-12-03T12:26:45.985Z"
+    },
+    {
+      "problem": "N. New Kingdom",
+      "link": "https://codeforces.com/contest/2172/problem/N",
+      "rating": "2800",
+      "tags": [
+        "graphs",
+        "implementation",
+        "constructive"
+      ],
+      "rawScraped": [
+        "constructive",
+        "algorithms",
+        "graphs",
+        "implementation",
+        "*2800"
+      ],
+      "addedAt": "2025-12-03T12:33:00.967Z"
     }
   ]
 }
