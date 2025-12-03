@@ -69,6 +69,33 @@
         "*2300"
       ],
       "addedAt": "2025-12-03T11:10:32.965Z"
+    },
+    {
+      "problem": "K. Kindergarten Homework",
+      "link": "https://codeforces.com/problemset/problem/2172/K",
+      "tags": [
+        "math",
+        "greedy",
+        "dp",
+        "dfs",
+        "bfs",
+        "graphs",
+        "two pointers",
+        "binary search",
+        "bruteforce",
+        "implementation",
+        "bitmasks",
+        "sorting",
+        "string",
+        "constructive",
+        "number theory"
+      ],
+      "rawScraped": [
+        "implementation",
+        "strings",
+        "*2100"
+      ],
+      "addedAt": "2025-12-03T11:11:44.020Z"
     }
   ],
   "deleted": [
