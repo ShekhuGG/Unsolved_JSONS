@@ -16,6 +16,7 @@ if (!GITHUB_TOKEN || GITHUB_TOKEN == "null") {
 // NEW — Build file path dynamically per user
 // ----------------------------------------------
 export function getFilePathForUser(username) {
+    console.log("File path : ", username);
     if (!username || username.trim() === "") {
         throw new Error("Username missing for file path.");
     }

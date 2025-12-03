@@ -60,7 +60,7 @@ export default function App() {
 
     await uploadProblemsFile(
       { problems: remaining, deleted: deletedNew },
-      sha
+      sha, username.current
     );
     load();
   }
@@ -80,7 +80,7 @@ export default function App() {
 
     await uploadProblemsFile(
       { problems: updated, deleted },
-      sha
+      sha, username.current
     );
 
     setNoteModal({ open: false, problem: null });
