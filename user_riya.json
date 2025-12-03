@@ -34,6 +34,23 @@
       "addedAt": "2025-12-03T17:58:04.432Z",
       "user": "riya",
       "status": "resolved"
+    },
+    {
+      "problem": "D. Almost Roman",
+      "link": "https://codeforces.com/problemset/problem/2170/D",
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ],
+      "rawScraped": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ],
+      "rating": null,
+      "addedAt": "2025-12-03T18:57:32.635Z",
+      "user": "riya"
     }
   ],
   "deleted": []
