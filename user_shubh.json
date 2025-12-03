@@ -15,6 +15,23 @@
       "rating": 1300,
       "addedAt": "2025-12-03T21:46:00.454Z",
       "user": "shubh"
+    },
+    {
+      "problem": "C. Annoying Game",
+      "link": "https://codeforces.com/contest/2158/problem/C",
+      "tags": [
+        "dp",
+        "games",
+        "greedy"
+      ],
+      "rawScraped": [
+        "dp",
+        "games",
+        "greedy"
+      ],
+      "rating": null,
+      "addedAt": "2025-12-03T21:48:17.116Z",
+      "user": "shubh"
     }
   ]
 }
