@@ -1,13 +1,246 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: #f5f6fa;
+  font-family: Inter, sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.app-container {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.inner {
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+/* ---------- Problem Card ---------- */
+.problem-card {
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  transition: 0.15s ease;
+}
+
+.problem-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* solve button */
+.solve-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid #4caf50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.15s;
+  font-weight: bold;
+}
+
+.solve-btn.solved {
+  background: #4caf50;
+  color: white;
+}
+
+.problem-title {
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #1976d2;
+}
+
+.problem-title:hover {
+  text-decoration: underline;
+}
+
+.problem-tags {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+
+/* buttons */
+.action-btn {
+  padding: 6px 12px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  background: white;
+}
+
+.action-btn:hover {
+  background: #f1f1f1;
+}
+
+.action-btn.delete {
+  color: #d32f2f;
+  border-color: #d32f2f;
+}
+
+.action-btn.delete:hover {
+  background: #ffe0e0;
+}
+
+/* modal */
+.note-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.note-modal {
+  background: white;
+  padding: 20px;
+  width: 320px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.note-modal textarea {
+  min-width: 90%;
+  max-width: 90%;
+  height: 130px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+/* Problem card base (adapt to your app theme if needed) */
+.problem-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.02);
+  margin-bottom: 10px;
+}
+
+/* solve-button */
+.solve-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.04);
+  cursor: pointer;
+  user-select: none;
+  font-weight: 700;
+}
+
+.solve-btn.solved {
+  background: #2bb673;
+  color: white;
+}
+
+/* title and tags */
+.problem-title {
+  display: inline-block;
+  font-weight: 600;
+  color: #111;
+  text-decoration: none;
+  margin-bottom: 6px;
+}
+
+.problem-tags {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 6px;
+}
+
+/* note box if present */
+.note-box {
+  margin-top: 8px;
+  padding: 8px;
+  background: #f0f4d8;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+/* added at formatting */
+.added-at {
+  margin-top: 8px;
+  color: #666;
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.added-at .added-year {
+  font-size: 0.78em;
+  /* smaller year */
+  opacity: 0.9;
+}
+
+/* rating pill (styled to match buttons) */
+.rating-pill {
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid;
+  font-weight: 700;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 64px;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.6));
+}
+
+/* action buttons */
+.action-btn {
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: #f3f4f6;
+  cursor: pointer;
+}
+
+.action-btn.delete {
+  background: #ffecec;
+  border-color: #ffbcbc;
+  color: #a00;
+}
+
+/* Small responsive adjustments */
+@media (max-width: 520px) {
+  .problem-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .problem-card>div:last-child {
+    margin-top: 8px;
+    justify-content: flex-end;
+  }
 }
