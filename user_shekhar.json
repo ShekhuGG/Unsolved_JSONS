@@ -32,7 +32,8 @@
       ],
       "rating": 1700,
       "addedAt": "2025-12-03T13:13:01.632Z",
-      "user": "shekhar"
+      "user": "shekhar",
+      "status": "resolved"
     },
     {
       "problem": "K. Kindergarten Homework",
