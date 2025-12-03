@@ -61,7 +61,8 @@
       ],
       "rating": 3300,
       "addedAt": "2025-12-03T16:38:07.942Z",
-      "user": "shekhar"
+      "user": "shekhar",
+      "status": "resolved"
     }
   ],
   "deleted": []
