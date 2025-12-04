@@ -53,6 +53,34 @@
       "addedAt": "2025-12-03T22:07:56.325Z",
       "user": "avi",
       "note": "hogaaya fix aviraj --- burraahhh --- tinga dinga"
+    },
+    {
+      "problem": "F. Rae Taylor and Trees (hard version)",
+      "link": "https://codeforces.com/problemset/problem/2171/F",
+      "tags": [
+        "binary search",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation"
+      ],
+      "rawScraped": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "implementation",
+        "trees",
+        "*1600"
+      ],
+      "rating": 1600,
+      "addedAt": "2025-12-04T14:14:26.486Z",
+      "user": "avi"
     }
   ],
   "deleted": []
