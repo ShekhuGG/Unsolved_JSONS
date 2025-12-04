@@ -89,22 +89,6 @@
       "user": "androway_the_god"
     },
     {
-      "problem": "D. Divisor Card Game",
-      "link": "https://codeforces.com/contest/2172/problem/B",
-      "tags": [
-        "combinatorics",
-        "dp"
-      ],
-      "rawScraped": [
-        "combinatorics",
-        "dp",
-        "*3100"
-      ],
-      "rating": 3100,
-      "addedAt": "2025-12-03T22:18:42.153Z",
-      "user": "androway_the_god"
-    },
-    {
       "problem": "C. Circles Are Far from Each Other",
       "link": "https://codeforces.com/contest/2172/problem/C",
       "tags": [
@@ -136,6 +120,22 @@
       ],
       "rating": 1800,
       "addedAt": "2025-12-03T22:19:55.629Z",
+      "user": "androway_the_god"
+    },
+    {
+      "problem": "D. Divisor Card Game",
+      "link": "https://codeforces.com/contest/2172/problem/B",
+      "tags": [
+        "combinatorics",
+        "dp"
+      ],
+      "rawScraped": [
+        "combinatorics",
+        "dp",
+        "*3100"
+      ],
+      "rating": 3100,
+      "addedAt": "2025-12-03T22:18:42.153Z",
       "user": "androway_the_god"
     }
   ]
