@@ -35,24 +35,6 @@
       "user": "androway_the_god"
     },
     {
-      "problem": "J. Sliding Tiles",
-      "link": "https://codeforces.com/contest/2172/problem/L",
-      "tags": [
-        "data structures",
-        "divide and conquer",
-        "dsu"
-      ],
-      "rawScraped": [
-        "data structures",
-        "divide and conquer",
-        "dsu",
-        "*2300"
-      ],
-      "rating": 2300,
-      "addedAt": "2025-12-03T22:14:11.045Z",
-      "user": "androway_the_god"
-    },
-    {
       "problem": "C. Circles Are Far from Each Other",
       "link": "https://codeforces.com/contest/2172/problem/C",
       "tags": [
@@ -136,6 +118,24 @@
       ],
       "rating": 2800,
       "addedAt": "2025-12-03T22:13:42.216Z",
+      "user": "androway_the_god"
+    },
+    {
+      "problem": "J. Sliding Tiles",
+      "link": "https://codeforces.com/contest/2172/problem/L",
+      "tags": [
+        "data structures",
+        "divide and conquer",
+        "dsu"
+      ],
+      "rawScraped": [
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "*2300"
+      ],
+      "rating": 2300,
+      "addedAt": "2025-12-03T22:14:11.045Z",
       "user": "androway_the_god"
     }
   ]
