@@ -53,7 +53,9 @@
       "addedAt": "2025-12-03T22:07:56.325Z",
       "user": "avi",
       "note": "hogaaya fix aviraj --- burraahhh --- tinga dinga"
-    },
+    }
+  ],
+  "deleted": [
     {
       "problem": "F. Rae Taylor and Trees (hard version)",
       "link": "https://codeforces.com/problemset/problem/2171/F",
@@ -83,6 +85,5 @@
       "user": "avi",
       "note": "hvvbhikbhb"
     }
-  ],
-  "deleted": []
+  ]
 }
