@@ -49,6 +49,23 @@
       "rating": 3100,
       "addedAt": "2025-12-03T22:19:21.954Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "E. Number Maze",
+      "link": "https://codeforces.com/contest/2172/problem/E",
+      "tags": [
+        "dp",
+        "dsu",
+        "implementation",
+        "sortings"
+      ],
+      "rawScraped": [
+        "implementation",
+        "*1200"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-04T10:11:15.041Z",
+      "user": "androway_the_god"
     }
   ],
   "deleted": [
