@@ -32,7 +32,8 @@
       ],
       "rating": 2000,
       "addedAt": "2025-12-03T22:11:38.169Z",
-      "user": "androway_the_god"
+      "user": "androway_the_god",
+      "status": "resolved"
     },
     {
       "problem": "C. Circles Are Far from Each Other",
