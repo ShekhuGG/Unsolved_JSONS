@@ -1,5 +1,30 @@
 {
-  "problems": [],
+  "problems": [
+    {
+      "problem": "C. Add Zeros",
+      "link": "https://codeforces.com/contest/2027/problem/C",
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy"
+      ],
+      "rawScraped": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "*1500"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-05T17:22:24.269Z",
+      "user": "great_explotion_murder_god_dynamide"
+    }
+  ],
   "deleted": [
     {
       "problem": "C. Add Zeros",
