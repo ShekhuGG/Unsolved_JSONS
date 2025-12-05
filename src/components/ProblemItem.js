@@ -61,10 +61,11 @@ export default function ProblemItem({ problem, onMark, onDelete, onNote }) {
 
     const rating = problem.rating ?? null;
     const ratingColor = ratingToColor(rating);
+    const val = rating != null ? rating : "";
 
     return (
         <div className="problem-card">
-            <div style={{ display: "flex", gap: 12, alignItems: "flex-start" }}>
+            <div style={{ display: "flex", columnGap: 12, alignItems: "flex-start" }}>
                 <div
                     className={`solve-btn ${isResolved ? "solved" : ""}`}
                     onClick={() => onMark(problem)}
@@ -86,9 +87,9 @@ export default function ProblemItem({ problem, onMark, onDelete, onNote }) {
                         {problem.tags?.join(", ")}
                     </div>
 
-                    {problem.note && (
+                    {/* {problem.note && (
                         <div className="note-box">{problem.note}</div>
-                    )}
+                    )} */}
 
                     {added && (
                         <div className="added-at">
@@ -102,7 +103,19 @@ export default function ProblemItem({ problem, onMark, onDelete, onNote }) {
 
             <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
                 {/* Rating at rightmost, left to Note button */}
-                {rating !== null && (
+                {problem.note && (
+                    <div className="note-box">{problem.note}</div>
+                )}
+                {(
+                    <div
+                        className={rating != null ? "rating-pill" : "rating-none"}
+                        title={`Rating: ${rating}`}
+                        style={{ color: ratingColor, borderColor: ratingColor }}
+                    >
+                        {val}
+                    </div>
+                )}
+                {/* {rating !== null && (
                     <div
                         className="rating-pill"
                         title={`Rating: ${rating}`}
@@ -110,7 +123,7 @@ export default function ProblemItem({ problem, onMark, onDelete, onNote }) {
                     >
                         *{rating}
                     </div>
-                )}
+                )} */}
 
                 <button className="action-btn" onClick={() => onNote(problem)}>
                     Note

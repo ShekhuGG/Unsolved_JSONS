@@ -10,7 +10,7 @@ body {
 }
 
 .inner {
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
 }
 
@@ -22,7 +22,8 @@ h1 {
 
 /* ---------- Problem Card ---------- */
 .problem-card {
-  background: #fff;
+  background: #ffffff15;
+  color: white;
   padding: 16px;
   border-radius: 8px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
@@ -32,7 +33,10 @@ h1 {
 }
 
 .problem-card:hover {
-  transform: scale(1.02);
+  /* transform: scale(1.001); */
+  transform: translateY(-2px);
+  background: #ffffff18;
+  outline: solid 1px rgba(1, 255, 255, 0.651);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
@@ -49,26 +53,26 @@ h1 {
   transition: 0.15s;
   font-weight: bold;
 }
-
-.solve-btn.solved {
-  background: #4caf50;
-  color: white;
-}
+ 
 
 .problem-title {
+  /* margin-bottom: ; */
   font-size: 1.1rem;
   text-decoration: none;
-  color: #1976d2;
+  color: #c7e3ffce;
+  font-size: 1rem;
+  letter-spacing: 1.5px;
 }
 
 .problem-title:hover {
   text-decoration: underline;
 }
 
+/* 
 .problem-tags {
   font-size: 0.8rem;
   color: #555;
-}
+} */
 
 
 /* buttons */
@@ -81,18 +85,7 @@ h1 {
   background: white;
 }
 
-.action-btn:hover {
-  background: #f1f1f1;
-}
 
-.action-btn.delete {
-  color: #d32f2f;
-  border-color: #d32f2f;
-}
-
-.action-btn.delete:hover {
-  background: #ffe0e0;
-}
 
 /* modal */
 .note-modal-overlay {
@@ -105,20 +98,24 @@ h1 {
 }
 
 .note-modal {
-  background: white;
+  background: rgba(62, 62, 62, .95);
+  color: rgb(195, 243, 255);
   padding: 20px;
   width: 320px;
   border-radius: 10px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 1);
 }
 
 .note-modal textarea {
+  background: none;
+  outline: none;
+  border: solid rgba(255, 255, 255, 1) 1px;
+  color: white;
   min-width: 90%;
   max-width: 90%;
   height: 130px;
   padding: 10px;
   border-radius: 6px;
-  border: 1px solid #ddd;
 }
 
 .modal-buttons {
@@ -129,7 +126,7 @@ h1 {
 }
 
 /* Problem card base (adapt to your app theme if needed) */
-.problem-card {
+/* .problem-card {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -140,7 +137,7 @@ h1 {
   border-radius: 10px;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.02);
   margin-bottom: 10px;
-}
+} */
 
 /* solve-button */
 .solve-btn {
@@ -157,39 +154,45 @@ h1 {
 }
 
 .solve-btn.solved {
-  background: #2bb673;
+  background: #30d28448;
   color: white;
 }
 
-/* title and tags */
-.problem-title {
-  display: inline-block;
-  font-weight: 600;
-  color: #111;
-  text-decoration: none;
-  margin-bottom: 6px;
-}
+/* title and tags  */
+
 
 .problem-tags {
-  color: #666;
+  color: #ffffffda;
+  letter-spacing: 1px;
   font-size: 0.9rem;
-  margin-top: 6px;
+  margin-top: 1rem;
 }
 
 /* note box if present */
 .note-box {
   margin-top: 8px;
   padding: 8px;
-  background: #f0f4d8;
+  background: rgba(132, 132, 132, 0.226);
   border-radius: 6px;
   font-size: 0.9rem;
-  color: #333;
+  color: #c0ff8d42;
+}
+
+.note-box:hover {
+  cursor: pointer;
+  border-bottom: solid 1px rgba(0, 255, 255, 0.63);
+  margin-top: 8px;
+  padding: 8px;
+  background: rgba(132, 132, 132, 0.226);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: #e5ffb0;
 }
 
 /* added at formatting */
 .added-at {
   margin-top: 8px;
-  color: #666;
+  color: #9294c9b2;
   font-size: 0.9rem;
   display: inline-flex;
   align-items: baseline;
@@ -214,22 +217,32 @@ h1 {
   justify-content: center;
   min-width: 64px;
   text-align: center;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.6));
+}
+
+.rating-none {
+  padding: 6px 10px;
+  min-width: 64px;
 }
 
 /* action buttons */
 .action-btn {
   padding: 7px 10px;
   border-radius: 8px;
+  color: rgba(255, 255, 255, 0.629);
   border: 1px solid rgba(0, 0, 0, 0.08);
-  background: #f3f4f6;
+  background: #1c1c1cdf;
   cursor: pointer;
+  transition: all 0.1s;
 }
 
 .action-btn.delete {
-  background: #ffecec;
-  border-color: #ffbcbc;
-  color: #a00;
+  background: #361616df;
+  outline: 1px solid rgba(8, 0, 0, 0.555);
+  color: rgba(255, 255, 255, 0.603);
+}
+
+.action-btn:hover {
+  transform: translateY(-2px);
 }
 
 /* Small responsive adjustments */
