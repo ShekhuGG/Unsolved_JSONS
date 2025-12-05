@@ -21,22 +21,6 @@
       "addedAt": "2025-12-03T18:40:38.608Z",
       "user": "avi",
       "status": "unsolved"
-    },
-    {
-      "problem": "C. Kanade's Perfect Multiples",
-      "link": "https://codeforces.com/contest/2173/problem/C",
-      "tags": [
-        "brute force",
-        "chinese remainder theorem",
-        "greedy"
-      ],
-      "rawScraped": [
-        "greedy"
-      ],
-      "rating": null,
-      "addedAt": "2025-12-05T17:24:25.499Z",
-      "user": "avi",
-      "note": " dc ad  xcddddcccccccccccccccccccccccccccccccccccccc"
     }
   ],
   "deleted": [
@@ -101,6 +85,22 @@
       "user": "avi",
       "status": "unsolved",
       "note": "hvvbhikbhb bb"
+    },
+    {
+      "problem": "C. Kanade's Perfect Multiples",
+      "link": "https://codeforces.com/contest/2173/problem/C",
+      "tags": [
+        "brute force",
+        "chinese remainder theorem",
+        "greedy"
+      ],
+      "rawScraped": [
+        "greedy"
+      ],
+      "rating": null,
+      "addedAt": "2025-12-05T17:24:25.499Z",
+      "user": "avi",
+      "note": " dc ad  xcddddcccccccccccccccccccccccccccccccccccccc"
     }
   ]
 }
