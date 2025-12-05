@@ -52,23 +52,6 @@
       "user": "androway_the_god"
     },
     {
-      "problem": "E. Number Maze",
-      "link": "https://codeforces.com/contest/2172/problem/E",
-      "tags": [
-        "dp",
-        "dsu",
-        "implementation",
-        "sortings"
-      ],
-      "rawScraped": [
-        "implementation",
-        "*1200"
-      ],
-      "rating": 1500,
-      "addedAt": "2025-12-04T10:11:15.041Z",
-      "user": "androway_the_god"
-    },
-    {
       "problem": "C. Add Zeros",
       "link": "https://codeforces.com/contest/2027/problem/C",
       "tags": [
@@ -198,6 +181,23 @@
       "addedAt": "2025-12-04T10:11:39.965Z",
       "user": "androway_the_god",
       "note": "ye easy h...srting hk kh j"
+    },
+    {
+      "problem": "E. Number Maze",
+      "link": "https://codeforces.com/contest/2172/problem/E",
+      "tags": [
+        "dp",
+        "dsu",
+        "implementation",
+        "sortings"
+      ],
+      "rawScraped": [
+        "implementation",
+        "*1200"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-04T10:11:15.041Z",
+      "user": "androway_the_god"
     }
   ]
 }
