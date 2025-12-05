@@ -69,25 +69,6 @@
       "user": "androway_the_god"
     },
     {
-      "problem": "F. Cluster Computing System",
-      "link": "https://codeforces.com/contest/2172/problem/F",
-      "tags": [
-        "graphs",
-        "greedy",
-        "math"
-      ],
-      "rawScraped": [
-        "graphs",
-        "greedy",
-        "math",
-        "*1600"
-      ],
-      "rating": 1600,
-      "addedAt": "2025-12-04T10:11:39.965Z",
-      "user": "androway_the_god",
-      "note": "ye easy h...srting hk kh j"
-    },
-    {
       "problem": "C. Add Zeros",
       "link": "https://codeforces.com/contest/2027/problem/C",
       "tags": [
@@ -198,6 +179,25 @@
       "rating": 2300,
       "addedAt": "2025-12-03T22:14:11.045Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "F. Cluster Computing System",
+      "link": "https://codeforces.com/contest/2172/problem/F",
+      "tags": [
+        "graphs",
+        "greedy",
+        "math"
+      ],
+      "rawScraped": [
+        "graphs",
+        "greedy",
+        "math",
+        "*1600"
+      ],
+      "rating": 1600,
+      "addedAt": "2025-12-04T10:11:39.965Z",
+      "user": "androway_the_god",
+      "note": "ye easy h...srting hk kh j"
     }
   ]
 }
