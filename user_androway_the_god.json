@@ -23,6 +23,24 @@
       "rating": 1500,
       "addedAt": "2025-12-05T07:39:37.048Z",
       "user": "androway_the_god"
+    },
+    {
+      "problem": "H. Shuffling Cards with Problem Solver 68!",
+      "link": "https://codeforces.com/problemset/problem/2172/E",
+      "tags": [
+        "hashing",
+        "string suffix structures",
+        "strings"
+      ],
+      "rawScraped": [
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "*2500"
+      ],
+      "rating": 2500,
+      "addedAt": "2025-12-05T08:28:24.772Z",
+      "user": "androway_the_god"
     }
   ],
   "deleted": [
