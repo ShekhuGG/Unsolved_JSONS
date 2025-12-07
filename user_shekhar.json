@@ -50,6 +50,19 @@
       "rating": null,
       "user": "shekhar",
       "addedAt": "2025-12-07T13:49:59.094Z"
+    },
+    {
+      "problem": "F. Mosaic Tree",
+      "link": "https://codeforces.com/problemset/problem/2174/F",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ],
+      "rating": null,
+      "user": "shekhar",
+      "addedAt": "2025-12-07T16:32:08.116Z"
     }
   ],
   "deleted": [
