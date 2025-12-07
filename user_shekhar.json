@@ -75,6 +75,17 @@
       "rating": "800",
       "user": "shekhar",
       "addedAt": "2025-12-07T16:53:57.964Z"
+    },
+    {
+      "problem": "M. Maximum Distance To Port",
+      "link": "https://codeforces.com/problemset/problem/2172/M",
+      "tags": [
+        "graphs",
+        "shortest paths"
+      ],
+      "rating": "1300",
+      "user": "shekhar",
+      "addedAt": "2025-12-07T17:00:42.652Z"
     }
   ],
   "deleted": [
