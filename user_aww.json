@@ -11,6 +11,18 @@
       "user": "aww",
       "addedAt": "2025-12-07T21:31:59.494Z",
       "note": "checking once again the new batch"
+    },
+    {
+      "problem": "A. Same Difference",
+      "link": "https://codeforces.com/problemset/problem/2166/A",
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ],
+      "rating": "800",
+      "user": "aww",
+      "addedAt": "2025-12-07T21:55:25.170Z"
     }
   ],
   "deleted": []
