@@ -30,6 +30,19 @@
       "addedAt": "2025-12-03T16:38:07.942Z",
       "user": "shekhar",
       "status": "resolved"
+    },
+    {
+      "problem": "",
+      "link": "https://codeforces.com/problemset/problem/2174/F",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+      ],
+      "rating": null,
+      "user": "shekhar",
+      "addedAt": "2025-12-07T13:48:34.508Z"
     }
   ],
   "deleted": [
