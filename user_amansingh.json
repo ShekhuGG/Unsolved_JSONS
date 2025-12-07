@@ -1,24 +1,5 @@
 {
-  "problems": [
-    {
-      "problem": "B. Marble Council",
-      "link": "https://codeforces.com/contest/2165/problem/B",
-      "tags": [
-        "dp",
-        "math",
-        "sortings"
-      ],
-      "rawScraped": [
-        "dp",
-        "math",
-        "sortings",
-        "*1900"
-      ],
-      "rating": 1900,
-      "addedAt": "2025-12-07T09:44:22.507Z",
-      "user": "amansingh"
-    }
-  ],
+  "problems": [],
   "deleted": [
     {
       "problem": "C1. Renako Amaori and XOR Game (easy version)",
@@ -39,6 +20,24 @@
       "user": "amansingh",
       "status": "unsolved",
       "note": "nice problem"
+    },
+    {
+      "problem": "B. Marble Council",
+      "link": "https://codeforces.com/contest/2165/problem/B",
+      "tags": [
+        "dp",
+        "math",
+        "sortings"
+      ],
+      "rawScraped": [
+        "dp",
+        "math",
+        "sortings",
+        "*1900"
+      ],
+      "rating": 1900,
+      "addedAt": "2025-12-07T09:44:22.507Z",
+      "user": "amansingh"
     }
   ]
 }
