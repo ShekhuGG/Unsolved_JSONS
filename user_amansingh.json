@@ -1,26 +1,6 @@
 {
   "problems": [
     {
-      "problem": "C1. Renako Amaori and XOR Game (easy version)",
-      "link": "https://codeforces.com/contest/2171/problem/C1",
-      "tags": [
-        "bitmasks",
-        "games",
-        "greedy"
-      ],
-      "rawScraped": [
-        "bitmasks",
-        "games",
-        "greedy",
-        "*1100"
-      ],
-      "rating": 1100,
-      "addedAt": "2025-12-07T09:42:55.583Z",
-      "user": "amansingh",
-      "status": "unsolved",
-      "note": "nice problem"
-    },
-    {
       "problem": "B. Marble Council",
       "link": "https://codeforces.com/contest/2165/problem/B",
       "tags": [
@@ -39,5 +19,26 @@
       "user": "amansingh"
     }
   ],
-  "deleted": []
+  "deleted": [
+    {
+      "problem": "C1. Renako Amaori and XOR Game (easy version)",
+      "link": "https://codeforces.com/contest/2171/problem/C1",
+      "tags": [
+        "bitmasks",
+        "games",
+        "greedy"
+      ],
+      "rawScraped": [
+        "bitmasks",
+        "games",
+        "greedy",
+        "*1100"
+      ],
+      "rating": 1100,
+      "addedAt": "2025-12-07T09:42:55.583Z",
+      "user": "amansingh",
+      "status": "unsolved",
+      "note": "nice problem"
+    }
+  ]
 }
