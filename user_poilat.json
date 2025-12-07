@@ -6,6 +6,17 @@
       "rating": "1300",
       "user": "poilat",
       "addedAt": "2025-12-07T21:11:22.710Z"
+    },
+    {
+      "problem": "D. Secret Message",
+      "link": "https://codeforces.com/problemset/problem/2174/D",
+      "tags": [
+        "data structures",
+        "greedy"
+      ],
+      "rating": null,
+      "user": "poilat",
+      "addedAt": "2025-12-07T21:12:56.647Z"
     }
   ]
 }
