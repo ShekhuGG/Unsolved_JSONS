@@ -63,6 +63,18 @@
       "rating": null,
       "user": "shekhar",
       "addedAt": "2025-12-07T16:32:08.116Z"
+    },
+    {
+      "problem": "A. Same Difference",
+      "link": "https://codeforces.com/problemset/problem/2166/A",
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ],
+      "rating": "800",
+      "user": "shekhar",
+      "addedAt": "2025-12-07T16:53:57.964Z"
     }
   ],
   "deleted": [
