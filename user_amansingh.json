@@ -1,16 +1,6 @@
 {
   "problems": [
     {
-      "problem": "B. XOR Array",
-      "link": "https://codeforces.com/problemset/problem/2175/B",
-      "tags": [
-        "math"
-      ],
-      "rating": null,
-      "user": "amansingh",
-      "addedAt": "2025-12-08T07:18:28.316Z"
-    },
-    {
       "problem": "C. Menorah",
       "link": "https://codeforces.com/contest/1615/problem/C",
       "tags": [
@@ -69,6 +59,16 @@
       "rating": 1900,
       "addedAt": "2025-12-07T09:44:22.507Z",
       "user": "amansingh"
+    },
+    {
+      "problem": "B. XOR Array",
+      "link": "https://codeforces.com/problemset/problem/2175/B",
+      "tags": [
+        "math"
+      ],
+      "rating": null,
+      "user": "amansingh",
+      "addedAt": "2025-12-08T07:18:28.316Z"
     }
   ]
 }
