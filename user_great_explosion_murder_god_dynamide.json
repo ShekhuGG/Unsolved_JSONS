@@ -1,0 +1,26 @@
+{
+  "problems": [
+    {
+      "problem": "D. Sum of XOR Functions",
+      "link": "https://codeforces.com/problemset/problem/1879/D",
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math"
+      ],
+      "rawScraped": [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math",
+        "*1700"
+      ],
+      "rating": 1700,
+      "addedAt": "2025-12-11T13:59:38.046Z",
+      "user": "great_explosion_murder_god_dynamide"
+    }
+  ]
+}
