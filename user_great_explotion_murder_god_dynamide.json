@@ -24,6 +24,28 @@
       "addedAt": "2025-12-05T17:22:24.269Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "amazing methodology - contains Graph + DP, can help u revise both , how you approach - dp + graph."
+    },
+    {
+      "problem": "D. Sum of XOR Functions",
+      "link": "https://codeforces.com/problemset/problem/1879/D",
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math"
+      ],
+      "rawScraped": [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math",
+        "*1700"
+      ],
+      "rating": 1700,
+      "addedAt": "2025-12-12T08:58:14.305Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
