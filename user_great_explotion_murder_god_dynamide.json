@@ -47,6 +47,22 @@
       "addedAt": "2025-12-12T08:58:14.305Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "Almost done, implementation heavy + multi concept, best for multi-concept thinking improvement\\n"
+    },
+    {
+      "problem": "E. Power of Points",
+      "link": "https://codeforces.com/contest/2176/problem/D",
+      "tags": [
+        "math",
+        "sortings"
+      ],
+      "rawScraped": [
+        "math",
+        "sortings",
+        "*1500"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-15T09:21:57.684Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
