@@ -83,6 +83,24 @@
       "addedAt": "2025-12-15T09:22:51.799Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "rating : 2k+, awesome dp + (dfs intuition) but only traversal on sorting\n"
+    },
+    {
+      "problem": "C. Paint the Digits",
+      "link": "https://codeforces.com/contest/1209/problem/C",
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ],
+      "rawScraped": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "*1500"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-16T08:14:41.657Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
