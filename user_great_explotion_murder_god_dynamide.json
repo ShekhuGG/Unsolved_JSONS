@@ -101,6 +101,27 @@
       "rating": 1500,
       "addedAt": "2025-12-16T08:14:41.657Z",
       "user": "great_explotion_murder_god_dynamide"
+    },
+    {
+      "problem": "C. Smilo and Monsters",
+      "link": "https://codeforces.com/problemset/problem/1891/C",
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ],
+      "rawScraped": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1500"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-17T14:10:28.999Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
