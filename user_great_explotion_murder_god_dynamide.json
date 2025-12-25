@@ -141,7 +141,8 @@
       ],
       "rating": 1500,
       "addedAt": "2025-12-25T09:14:18.323Z",
-      "user": "great_explotion_murder_god_dynamide"
+      "user": "great_explotion_murder_god_dynamide",
+      "note": "v good problem. 2 methods ->greedy simulation , -> dp . Both works."
     }
   ],
   "deleted": [
