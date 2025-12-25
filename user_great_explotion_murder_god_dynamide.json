@@ -122,6 +122,26 @@
       "rating": 1500,
       "addedAt": "2025-12-17T14:10:28.999Z",
       "user": "great_explotion_murder_god_dynamide"
+    },
+    {
+      "problem": "C. Mortal Kombat Tower",
+      "link": "https://codeforces.com/problemset/problem/1418/C",
+      "tags": [
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+      ],
+      "rawScraped": [
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "*1500"
+      ],
+      "rating": 1500,
+      "addedAt": "2025-12-25T09:14:18.323Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
