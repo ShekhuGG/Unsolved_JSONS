@@ -143,6 +143,23 @@
       "addedAt": "2025-12-25T09:14:18.323Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "v good problem. 2 methods ->greedy simulation , -> dp . Both works."
+    },
+    {
+      "problem": "E. Blackslex and Girls",
+      "link": "https://codeforces.com/contest/2179/problem/E",
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ],
+      "rawScraped": [
+        "constructive algorithms",
+        "geometry",
+        "math"
+      ],
+      "rating": null,
+      "addedAt": "2025-12-28T11:04:30.009Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
