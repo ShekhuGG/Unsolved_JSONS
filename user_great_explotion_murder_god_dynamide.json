@@ -178,6 +178,22 @@
       "rating": null,
       "addedAt": "2026-01-12T20:23:45.069Z",
       "user": "great_explotion_murder_god_dynamide"
+    },
+    {
+      "problem": "C. Dora and C++",
+      "link": "https://codeforces.com/problemset/problem/2007/C",
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "rawScraped": [
+        "math",
+        "number theory",
+        "*1500"
+      ],
+      "rating": null,
+      "addedAt": "2026-01-13T20:44:13.161Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
