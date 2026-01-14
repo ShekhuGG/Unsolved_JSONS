@@ -195,6 +195,26 @@
       "rating": null,
       "addedAt": "2026-01-13T20:44:13.161Z",
       "user": "great_explotion_murder_god_dynamide"
+    },
+    {
+      "problem": "D. Fun",
+      "link": "https://codeforces.com/problemset/problem/1996/D",
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ],
+      "rawScraped": [
+        "binary search",
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory",
+        "*1500"
+      ],
+      "rating": null,
+      "addedAt": "2026-01-14T08:32:57.929Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
