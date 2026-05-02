@@ -217,6 +217,23 @@
       "addedAt": "2026-01-14T08:32:57.929Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "hat ke thinking, optimization"
+    },
+    {
+      "problem": "G. Drowning",
+      "link": "https://codeforces.com/problemset/problem/2227/G",
+      "tags": [
+        "binary search",
+        "data structures",
+        "math"
+      ],
+      "rawScraped": [
+        "binary search",
+        "data structures",
+        "math"
+      ],
+      "rating": null,
+      "addedAt": "2026-05-02T13:31:03.214Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
