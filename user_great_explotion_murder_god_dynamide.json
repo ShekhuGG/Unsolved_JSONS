@@ -260,6 +260,35 @@
       "addedAt": "2026-05-31T08:09:43.214Z",
       "user": "great_explotion_murder_god_dynamide",
       "note": "Rolling Hash — 10 Line Recall Notes\nPurpose: Compare substrings quickly without checking characters one by one.\nMap characters to numbers, e.g. a=1, b=2, ..., z=26.\nUse a base P (commonly 29, 31, 37, 53, etc.).\nHash is a positional polynomial: abc = 1·P² + 2·P¹ + 3.\nPosition matters, so \"abc\" and \"cba\" get different hashes.\nFundamental identity: hash(XY) = hash(X)·P^|Y| + hash(Y).\nStore prefix hashes and powers of P in O(n).\nAny substring hash can then be extracted from prefix hashes in O(1).\nTo find LCP of two strings, binary search the length and compare hashes.\nKey analogy: Prefix sums for arrays = Rolling hashes for strings.\nZ-Function — 10 Line Recall Notes\nZ[i] = length of longest prefix of s matching substring starting at i.\nIt precomputes Longest Common Prefix (LCP) information.\nExample: if s=\"aaabaab\", then Z[1]=2.\nTells how much s[0...] matches s[i...].\nUseful for finding first mismatch between two strings.\nCommon applications: string matching, LCP queries, lexicographic comparisons.\nRuns in O(n) time.\nThink of it as \"precomputed equality lengths\".\nIn 1537E2, it helps compare AB and BA efficiently.\nKey analogy: Z-function = LCP machine for a string.\nOne-line memory hook\nRolling Hash -> Convert strings into positional numbers.\nZ Function   -> Measure how long two strings stay equal."
+    },
+    {
+      "problem": "E1. Erase and Extend (Easy Version)",
+      "link": "https://codeforces.com/contest/1537/problem/E1",
+      "tags": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings"
+      ],
+      "rawScraped": [
+        "binary search",
+        "brute force",
+        "dp",
+        "greedy",
+        "hashing",
+        "implementation",
+        "string suffix structures",
+        "strings",
+        "two pointers",
+        "*1600"
+      ],
+      "rating": 1600,
+      "addedAt": "2026-05-31T08:11:40.740Z",
+      "user": "great_explotion_murder_god_dynamide"
     }
   ],
   "deleted": [
